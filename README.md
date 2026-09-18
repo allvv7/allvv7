@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/courage_typing_gemini.gif" width="600" alt="Coragem o Cão Covarde Programando na IA Gemini" />
+  <img src="assets/courage.gif" width="600" alt="Coragem o Cão Covarde Programando na IA Gemini" />
   
   # Olá, eu sou o Denner Alves! 👋
   <p><i>Iniciante em Tecnologia | Estudante de Fundamentos & IA | Aprendiz na DIO.me</i></p>
